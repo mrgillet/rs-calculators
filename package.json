@@ -100,7 +100,7 @@
     "lodash-webpack-plugin": "^0.11.5",
     "node-sass": "^4.12.0",
     "open-browser-webpack-plugin": "^0.0.5",
-    "postcss": "^7.0.2",
+    "postcss": "^8.2.10",
     "postcss-loader": "^3.0.0",
     "prettier": "^1.14.2",
     "rimraf": "^2.6.2",
